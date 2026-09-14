@@ -238,4 +238,4 @@ This repository serves as the official landing page for Cut The Rope. The softwa
 **Get the most recent version of Cut The Rope today!**
 
 ---
-**Last updated:** 2026-09-14 12:00:56 UTC
+**Last updated:** 2026-09-14 18:22:29 UTC
